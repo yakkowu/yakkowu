@@ -1,6 +1,6 @@
-### 哈囉～你好！ 👋
----
-我是 Yakko Wu
+## 哈囉～你好！
+### 我是 Yakko Wu 👋 | Product Designer
+
 
 來自高雄鹽埕區駁二特區旁，現居台北市，目前在 Tagtoo 塔圖科技 RD 部門擔任公司唯一的設計師。
 在此數位廣告產業，具備完整開發 Web UI/UX 設計背景的設計師，已有 5 年資歷，目前從事 Product Designer 的工作。
