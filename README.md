@@ -14,7 +14,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/yakkowu?style=social)](https://twitter.com/intent/follow?screen_name=yakkowu)
 
-[Email](mailto:imyakkowu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yakkowu/) · [Medium](https://medium.com/@yakkowu)  · [Instagram](https://www.instagram.com/yakkowu/)  · [Website](https://yakkowu.com/)
+[Email](mailto:imyakkowu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yakkowu/) · [Medium](https://medium.com/@yakkowu)  · [Instagram](https://www.instagram.com/yakkowu/)
 
 ![Yakko Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakkowu&show_icons=true&theme=default)
 
