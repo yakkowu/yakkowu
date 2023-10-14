@@ -4,11 +4,12 @@
 
 來自高雄鹽埕區駁二特區旁，現居台北市，
 曾在 Tagtoo 塔圖科技 R&D 部門擔任公司唯一的設計師，在此數位廣告產業，
-具備完整開發 Web UI/UX 設計背景的設計師，已近 6 年資歷。
+具備完整開發 Web UI/UX 設計背景的設計師，已有 7 年資歷。
 
 目前在 2022/11/01 開始了在均一教育平台的產品發展組擔任 Product Designer 的工作。
 
 從 2021 年 6 月開始到現在，持續地在跟開發者朋友們一起用熱情的汗水打造來自 🇹🇼 台灣的前端開源框架 [W-Components](https://github.com/Padax/w-components)。
+可以從這裡找到我們的足跡，以及 UI 相關作品 [Related Links](https://github.com/Padax/w-components/wiki/Related-Links)
 
 長跑設計跟插畫熱情已經燃燒 15 年有了，在 Medium 寫下 UI/UX、設計相關的專題研究、團隊實務經驗，獲得 1,000↑ 拍手的個人小成就！目前在 Twitter 上比較活躍（分享的涵蓋還滿廣的，以 murmur 居多ＸＤ），非常歡迎追蹤或是交流哦～
 
